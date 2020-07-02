@@ -1,0 +1,3 @@
+https://docs.aws.amazon.com/pt_br/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.html
+https://console.aws.amazon.com
+https://github.com/Arattian/DynamoDb-GUI-Client
